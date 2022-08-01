@@ -1,7 +1,7 @@
 ---
 title: getting-started
 author: Justin Bird
-created: 09-01-2022
+created: 08-01-2022
 ---
 
 ## Getting Started
